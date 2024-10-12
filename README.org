@@ -1,0 +1,9 @@
+* compression-cache
+
+Simple protocol for caching compressed files
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/daninus14/compression-cache.git |
+| commit  | 2cc5ef6                                                |
+| systems | compression-cache                                      |
+|---------+--------------------------------------------------------|
